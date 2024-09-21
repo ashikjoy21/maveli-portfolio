@@ -589,7 +589,7 @@ section {
 }
 
 .about .image {
-  background: url("/assets/img/me.png") center center no-repeat;
+  background: url("https://kiranbabu007.github.io/Maveli-Portfolio/assets/img/me.png") center center no-repeat;
   background-size: cover;
   min-height: 700px;
   /* border-radius: 15px; */
